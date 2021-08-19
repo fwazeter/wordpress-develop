@@ -66,7 +66,7 @@
 
 .imgCrop_marqueeNorth { top: 0; left: 0; }
 .imgCrop_marqueeEast  { top: 0; right: 0; }
-.imgCrop_marqueeSouth { bottom: 0px; left: 0; }
+.imgCrop_marqueeSouth { bottom: 0; left: 0; }
 .imgCrop_marqueeWest  { top: 0; left: 0; }
 
 

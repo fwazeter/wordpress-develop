@@ -77,7 +77,7 @@
 
 #TB_ajaxContent {
 	clear: both;
-	padding: 2px 15px 15px 15px;
+	padding: 2px 15px 15px;
 	overflow: auto;
 	text-align: left;
 	line-height: 1.4em;
@@ -88,7 +88,7 @@
 }
 
 #TB_ajaxContent p {
-	padding: 5px 0px 5px 0px;
+	padding: 5px 0;
 }
 
 #TB_load {
